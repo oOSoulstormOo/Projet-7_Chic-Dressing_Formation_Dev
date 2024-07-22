@@ -16,10 +16,23 @@ Text Domain:	 chicdressing
 
 
 body .page-content, .page-content select, .page-content input, .page-content textarea, .page-content .post-author a, .page-content .ashe-widget a, .page-content .comment-author {
-    color: #a5a5a5;
-    font-size: 12px;
+    color: #333333;
+    font-size: 14px;
 }
 
+.page-content .post-date {
+    color: black !important;
+    font-size: 14px;
+}
+
+.rpwwt-post-categories {
+    color: #222 !important;
+}
+
+.rpwwt-post-title {
+    font-weight: bold;
+    display: block;
+}
 
 body .header-logo a{
     color: white;

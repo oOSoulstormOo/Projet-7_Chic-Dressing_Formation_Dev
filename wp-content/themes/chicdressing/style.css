@@ -66,3 +66,74 @@ body .header-logo a{
 }
 
 /* Police en Local */
+    
+    /* Kalam */
+
+    @font-face {
+        font-family: 'Kalam';
+        src: url('font/Kalam-Bold.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Kalam';
+        src: url('font/Kalam-Light.ttf') format('truetype');
+        font-weight: light;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Kalam';
+        src: url('font/Kalam-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /* Open Sans */
+
+    @font-face {
+        font-family: 'Opens Sans';
+        src: url('font/OpenSans-Italic-VariableFont_wdth\,wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'Opens Sans';
+        src: url('font/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /* Playfair Display */
+
+    @font-face {
+        font-family: 'Playfair Display';
+        src: url('font/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'Playfair Display';
+        src: url('font/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /* Rokkitt */
+
+    @font-face {
+        font-family: 'Rokkitt';
+        src: url('font/Rokkitt-Italic-VariableFont_wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'Rokkitt';
+        src: url('font/Rokkitt-VariableFont_wght.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
